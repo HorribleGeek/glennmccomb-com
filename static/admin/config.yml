@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: lenymo/glennmccomb-com # Path to your Github repository
+  repo: HorribleGeek/glennmccomb-com # Path to your Github repository
   branch: master # Branch to update
   
 media_folder: "src/img/uploads" # Media files will be stored in the repo under src/img/uploads
